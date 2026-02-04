@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Hitaansh Jain: crazycooldude50
-Chase Vitale: chasecvitale
-Harry Wu: harrywzl
-Uwa Igbinedion: uwa00
+Hitaansh Jain: crazycooldude50 <br>
+Chase Vitale: chasecvitale <br>
+Harry Wu: harrywzl <br>
+Uwa Igbinedion: uwa00 <br>
 
 ## Stakeholders
 
