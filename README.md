@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Hitaansh Jain: crazycooldude50 <br>
-Chase Vitale: chasecvitale <br>
-Harry Wu: harrywzl <br>
-Uwa Igbinedion: uwa00 <br>
+- [Chase Vitale](https://github.com/chasecvitale)
+- [Uwa Igbinedion](https://github.com/uwa00)
+- [Harry Wu](https://github.com/harrywzl)
+- [Hitaansh Jain](https://github.com/crazycooldude50)
 
 ## Stakeholders
 
