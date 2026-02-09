@@ -50,16 +50,38 @@ Both stakeholders requested to remain anonymous for this interview due to privac
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+An app for NYU students to lend textbooks to other students to decrease costs of classes.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+### Takers
+1. As a student who needs a book, I want to be able to be in a group chat with my classmates so that we can all share the textbooks without having to buy our own.
+2. As a student who needs a book, I want to be able to search up a textbook name so that I can see if it’s available.
+3. As a student who needs a book, I want to be able to have friends in the app so that I can follow people in my major.
+4. As a student who needs a book, I want to be able to search up a course so that I can see what textbooks are needed for it.
+5. As a student who needs a book, I want an Other Resources page so that I can see where else I can obtain a textbook if it isn’t available on the site.
+6. As a student who needs a book, I want to be able to meet fellow classmates so that I can easily share notes and create study groups.
+7. As a student who needs a book, I want to register using my school email so that I can verify I am part of the university and trust other users.
+8. As a student who needs a book, I want to filter search results by campus location, so that I don’t have to travel too far to pick up a book.
+9. As a student who needs a book, I want to be able to ask questions anonymously to other students so that I can find answers without necessarily revealing who I am.
+10. As a student who needs a book, I want to be able to direct message people to arrange the swap of the textbook.
+
+### Lenders
+1. As a student who wants to give books, I want to be able to list a textbook I own so that other students can see it is available.
+2. As a student who wants to give books, I want to be able to specify the condition of my textbook so that borrowers know what to expect.
+3. As a student who wants to give books, I want to be able to connect a textbook to a specific course so that students in that course can find it easily.
+4. As a student who wants to give books, I want to be able to message interested students directly so that we can coordinate pickup and return details.
+5. As a student who wants to give books, I want to be able to see who has requested my book so that I can choose who to lend it to.
+6. As a student who wants to give books, I want to be able to set a pickup location so that exchanges are convenient.
+7. As a student who wants to give books, I want to mark a book as available or already lent out so students don’t request it unnecessarily.
+8. As a student who wants to give books, I want to be able to verify that borrowers are at my university so I feel comfortable lending my books.
+9. As a student who wants to give books, I want to be able to remove a listing once the semester ends so that outdated listings don’t stay visible.
+10. As a student who wants to give books, I want to be able to view a borrower’s profile so that I can feel more confident about who I’m lending my book to.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+[Acitivity Diagrams](https://www.figma.com/design/enUVQe4T9coHX1HhNVpxk1/UML-Activity-Diagrams?t=Mw1hyG8A170tr4hb-1)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Clickable Prototype](https://www.figma.com/proto/wXDXEExct2bmgDKHaI6lW6/Wireframes---Prototype?node-id=2-2&p=f&t=DwYNp9v5GgFApOvc-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
