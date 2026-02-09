@@ -80,8 +80,8 @@ An app for NYU students to lend textbooks to other students to decrease costs of
 
 ## Activity Diagrams
 
-(Acitivity Diagrams)[https://www.figma.com/design/enUVQe4T9coHX1HhNVpxk1/UML-Activity-Diagrams?t=Mw1hyG8A170tr4hb-1]
+[Acitivity Diagrams](https://www.figma.com/design/enUVQe4T9coHX1HhNVpxk1/UML-Activity-Diagrams?t=Mw1hyG8A170tr4hb-1)
 
 ## Clickable Prototype
 
-(Clickable Prototype)[https://www.figma.com/proto/wXDXEExct2bmgDKHaI6lW6/Wireframes---Prototype?node-id=2-2&p=f&t=DwYNp9v5GgFApOvc-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2]
+[Clickable Prototype](https://www.figma.com/proto/wXDXEExct2bmgDKHaI6lW6/Wireframes---Prototype?node-id=2-2&p=f&t=DwYNp9v5GgFApOvc-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
