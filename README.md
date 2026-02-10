@@ -16,8 +16,8 @@ Both stakeholders requested to remain anonymous for this interview due to privac
 **Interviewer:** Harry Wu  
 **Date:** Feb 1st 2026
 
-### Stakeholder 1: J.C. (The Commuter)
-**User Type:** Commuter / Buyer
+### Stakeholder 1: J.C. (The Borrower)
+**User Type:** Borrower
 
 **Goals and Needs**
 1. **Cost Efficiency:** Needs to minimize textbook spending to prioritize essential commuting funds (LIRR tickets).
@@ -54,7 +54,7 @@ An app for NYU students to lend textbooks to other students to decrease costs of
 
 ## User Requirements
 
-### Takers
+### Borrowers
 1. As a student who needs a book, I want to be able to be in a group chat with my classmates so that we can all share the textbooks without having to buy our own.
 2. As a student who needs a book, I want to be able to search up a textbook name so that I can see if it’s available.
 3. As a student who needs a book, I want to be able to have friends in the app so that I can follow people in my major.
@@ -80,7 +80,24 @@ An app for NYU students to lend textbooks to other students to decrease costs of
 
 ## Activity Diagrams
 
-[Acitivity Diagrams](https://www.figma.com/design/enUVQe4T9coHX1HhNVpxk1/UML-Activity-Diagrams?t=Mw1hyG8A170tr4hb-1)
+### Borrower UML Activity Diagrams
+
+#### As a student borrower, I want to be able to search up a textbook name so that I can see if it’s available
+
+![First borrower UML Activity Diagram](images/borrower_one.png)
+
+#### As a student borrower, I want to be able to be in a group chat with my classmates so that we can all share the textbooks without having to buy our own
+
+![Second borrower UML Activity Diagram](images/borrower_two.png)
+
+#### As a student who wants to give books, I want to be able to list a textbook I own so that other students can see it is available
+
+![First lender UML Activity Diagram](images/lender_one.png)
+
+#### As a student who wants to give books, I want to be able to see who has requested my book so that I can choose who to lend it to
+
+![Second lender UML Activity Diagram](images/lender_two.png)
+
 
 ## Clickable Prototype
 
