@@ -82,22 +82,23 @@ An app for NYU students to lend textbooks to other students to decrease costs of
 
 ### Borrower UML Activity Diagrams
 
-#### As a student borrower, I want to be able to search up a textbook name so that I can see if it’s available
+- As a student borrower, I want to be able to search up a textbook name so that I can see if it’s available
 
-![First borrower UML Activity Diagram](./images/borrower_one.png)
+    ![First borrower UML Activity Diagram](./images/borrower_one.png)
 
-#### As a student borrower, I want to be able to be in a group chat with my classmates so that we can all share the textbooks without having to buy our own
+- As a student borrower, I want to be able to be in a group chat with my classmates so that we can all share the textbooks without having to buy our own
 
-![Second borrower UML Activity Diagram](./images/borrower_two.png)
+    ![Second borrower UML Activity Diagram](./images/borrower_two.png)
 
-#### As a student who wants to give books, I want to be able to list a textbook I own so that other students can see it is available
+### Lender UML Activity Diagrams
 
-![First lender UML Activity Diagram](./images/lender_one.png)
+- As a student who wants to give books, I want to be able to list a textbook I own so that other students can see it is available
 
-#### As a student who wants to give books, I want to be able to see who has requested my book so that I can choose who to lend it to
+    ![First lender UML Activity Diagram](./images/lender_one.png)
 
-![Second lender UML Activity Diagram](./images/lender_two.png)
+- As a student who wants to give books, I want to be able to see who has requested my book so that I can choose who to lend it to
 
+    ![Second lender UML Activity Diagram](./images/lender_two.png)
 
 ## Clickable Prototype
 
