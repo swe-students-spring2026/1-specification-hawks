@@ -17,6 +17,7 @@ Both stakeholders requested to remain anonymous for this interview due to privac
 **Date:** Feb 1st 2026
 
 ### Stakeholder 1: J.C. (The Borrower)
+
 **User Type:** Borrower
 
 **Goals and Needs**
@@ -34,6 +35,7 @@ Both stakeholders requested to remain anonymous for this interview due to privac
 ---
 
 ### Stakeholder 2: A.Z. (The Seller/Lender)
+
 **User Type:** Seller/Lender
 
 **Goals and Needs**
@@ -55,6 +57,7 @@ An app for NYU students to lend textbooks to other students to decrease costs of
 ## User Requirements
 
 ### Borrowers
+
 1. As a student who needs a book, I want to be able to be in a group chat with my classmates so that we can all share the textbooks without having to buy our own.
 2. As a student who needs a book, I want to be able to search up a textbook name so that I can see if it’s available.
 3. As a student who needs a book, I want to be able to have friends in the app so that I can follow people in my major.
@@ -67,6 +70,7 @@ An app for NYU students to lend textbooks to other students to decrease costs of
 10. As a student who needs a book, I want to be able to direct message people to arrange the swap of the textbook.
 
 ### Lenders
+
 1. As a student who wants to give books, I want to be able to list a textbook I own so that other students can see it is available.
 2. As a student who wants to give books, I want to be able to specify the condition of my textbook so that borrowers know what to expect.
 3. As a student who wants to give books, I want to be able to connect a textbook to a specific course so that students in that course can find it easily.
@@ -102,4 +106,4 @@ An app for NYU students to lend textbooks to other students to decrease costs of
 
 ## Clickable Prototype
 
-[Clickable Prototype](https://www.figma.com/proto/wXDXEExct2bmgDKHaI6lW6/Wireframes---Prototype?node-id=2-2&p=f&t=DwYNp9v5GgFApOvc-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
+[Clickable Prototype](https://www.figma.com/proto/wXDXEExct2bmgDKHaI6lW6/Wireframes---Prototype?node-id=1-10&p=f&t=68IMA3ckIC1qaQsn-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
